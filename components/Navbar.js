@@ -8,8 +8,9 @@ export default function Navbar() {
         <li><Link href="/">Home</Link></li>
         <li><Link href="/benefits">Benefits</Link></li>
         <li><Link href="/contact">Contact</Link></li>
-        {/* Add more links as needed */}
+        <li><Link href="/shop">Shop</Link></li>
       </ul>
     </nav>
   );
 }
+
