@@ -1,4 +1,3 @@
-// components/Navbar.js
 import Link from 'next/link';
 
 export default function Navbar() {
@@ -13,4 +12,3 @@ export default function Navbar() {
     </nav>
   );
 }
-
